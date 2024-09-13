@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm DINETH WISHMITHA</h1>
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100">
+   </p>
+ <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=25&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=480&height=60&lines=%E2%9A%98+Inspiring+the+intelligence.+Connecting+you+digitally.+%F0%9F%90%9D" alt="Typing SVG" /></a>
+  </p>
+
+
+<div align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=My+Name+is+DINETH;New+Beginning+Developer;SHAGEE+MD" alt="Typing SVG" /></a>   
+</p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shagee-bot-web&label=Profile%20views&color=0e75b6&style=flat" alt="shagee-bot-web" /> </p>
 
@@ -30,3 +40,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shagee-bot-web&show_icons=true&locale=en" alt="shagee-bot-web" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shagee-bot-web&" alt="shagee-bot-web" /></p>
+
+
+---
+<h3>MASTER'S MUSIC PLAYER</h3>
+
+<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
+   </p>
+<h2 align="center"> 💫 Now Listening On Spotify 💫
+</h2>
+<p align="center"> <img src="https://kai-spotify.vercel.app/api/spotify" alt="kai0071" /> </p>
+
+
+<p align="center">
+  <img src="https://telegra.ph/file/120d278888ea8e8e15b22.jpg" />
+</p>
