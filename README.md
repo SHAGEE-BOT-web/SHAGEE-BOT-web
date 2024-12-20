@@ -17,14 +17,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Whathsapp bot](https://github.com/SHAGEE-BOT-web)
-
-- 👯 I’m looking to collaborate on [ai chat bot](https://github.com/SHAGEE-BOT-web)
-
-- 🤝 I’m looking for help with [bug bot](https://github.com/SHAGEE-BOT-web)
-
-- 💬 Ask me about **HELLO BUDDY ......!**
-
 - 📫 How to reach me **wishmithadineth@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
